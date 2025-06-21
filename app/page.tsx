@@ -7,11 +7,14 @@ export default function Page() {
         Jack's Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`I'm a computer engineering student at Northeastern University with a 
+        focus on building smart, scalable software at the intersection of AI and 
+        embedded systems. I love working on startup-style projects—especially tools 
+        that solve real problems with automation, machine learning, or thoughtful 
+        UX. Recently, I've been building SaaS products powered by LLMs, exploring 
+        how AI can drive insights, speed up workflows, or create entirely new user 
+        experiences. On the hardware side, I'm just as comfortable writing embedded 
+        firmware or integrating sensors into robotics projects. `}
       </p>
       <div className="my-8">
         <BlogPosts />
